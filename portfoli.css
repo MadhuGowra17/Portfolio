@@ -1,0 +1,415 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bac{
+	background-color: black;
+	height: 100vh;
+	width: 30vw;
+	text-align: center;
+	border-top: 15px solid #F535AA;
+	border-bottom: 15px solid #F535AA;
+	border-left: 15px solid #F535AA;
+}
+.im{
+	text-align: center;
+	margin-top: 117px;
+	width: 28vw;
+	
+}
+.kk{
+	background-color:#000000e2;
+	height: 100vh;
+	width: 70vw;
+}
+.bu{
+	margin-left: 600px;
+	margin-right: 30px;
+	margin-top: 30px;
+	padding: 7px;
+	padding-right: 15px;
+	padding-left: 15px;
+	border-radius: 20px;
+	background-color: #F535AA;
+	color: white;
+	border-width: 0px;
+	font-family: roboto;
+	font-weight: bold;
+}
+.buu{
+	margin-right: 30px;
+	padding: 7px;
+	padding-right: 15px;
+	padding-left: 15px;
+	border-radius: 20px;
+	border-radius: 20px;
+	background-color: #F535AA;
+	color: white;
+	border-width: 0px;
+	font-family: roboto;
+	font-weight: bold;
+}
+.he{
+	font-family: colus;
+	font-weight: bold;
+	font-size: 40px;
+}
+.hh{
+	color: white;
+	font-family: roboto;
+	margin-left: 150px;
+	margin-top: 150px;
+}
+.l{
+	padding-left: 150px;
+	color: white;
+}
+.ll{
+	font-size: 30px;
+	color: #F535AA;
+	font-family: sans-serif;
+	font-weight: bold;
+}
+.para{
+	color: white;
+	margin-left: 150px ;
+	margin-right: 400px;
+	font-weight: bold;
+	font-family: 'Tektur',cursive;
+}
+.mrbt{
+	margin-left: 150px;
+	margin-top: 20px;
+	font-family:'Taktur',cursive ;
+	color: white;
+	padding: 7px;
+	padding-right: 15px;
+	padding-left: 15px;
+	background-color: #F535AA ;
+	border-radius: 15px;
+	border-width: 0px;
+}
+.bq{
+	background-color: black;
+	height: 100vh;
+	width: 100vw;
+	background-size: cover;
+}
+.b1{
+	margin-left: 1000px;
+	margin-top: 30px;
+	padding: 7px 15px;
+	border-radius: 15px;
+	margin-right: 30px;
+	background-color: green;
+	color: white;
+	border-width: 0px;
+	font-family: roboto;
+	font-weight: bold;
+}
+.bts{
+	margin-top: 30px;
+	padding: 7px 15px;
+	border-radius: 15px;
+	margin-right: 30px;
+	background-color: green;
+	color: white;
+	border-width: 0px;
+	font-family: roboto;
+	font-weight: bold;
+}
+.hed{
+	color: white;
+	text-align: center;
+	font-weight: bold;
+	font-family: roboto;
+	text-decoration: underline;
+}
+.me{
+	color: green;
+	font-weight: normal;
+	font-family: sans-serif;
+}
+.subhd{
+	color: white;
+	font-family: roboto;
+	font-size: 30px;
+	margin-left: 200px;
+	margin-top: 30px;
+
+}
+.li{
+	list-style-type: none;
+	margin-left: 100px;
+	margin-top: 10px;
+	font-size: 20px;
+	font-family: cursive;
+	color: #ffffffe7;
+}
+.lii{
+	color: white;
+	font-weight: bold;
+}
+.liii{
+	margin-top: 10px;
+}
+.hhh{
+	margin-left: 1150px;
+	color: green;
+}
+.bo{
+	height: 10px;
+	width: 150px;
+	margin-left: 10px;
+	border-radius: 5px;
+	background-color: green;
+	border-width: 0px;
+}
+.ee{
+	margin-top: 30px;
+	margin-left: 100px;
+	color: white;
+	list-style-type: none;
+	font-family: roboto;
+	font-weight: bold;
+}
+.eee{
+	margin-left: 10px;
+}
+.eeee{
+	margin-top: 15px;
+}
+.bp{
+	height: 10px;
+	width: 130px;
+	margin-left: 23px;
+	border-radius: 5px;
+	background-color: green;
+	border-width: 0px;
+}
+.ba{
+	height: 10px;
+	width: 110px;
+	margin-left: 34px;
+	border-radius: 5px;
+	background-color: green;
+	border-width: 0px;
+}
+.bs{
+	height: 10px;
+	width: 100px;
+	margin-left: 43px;
+	border-radius: 5px;
+	background-color: green;
+	border-width: 0px;
+}
+.bv{
+	height: 10px;
+	width: 110px;
+	margin-left: 5px;
+	border-radius: 5px;
+	background-color: green;
+	border-width: 0px;
+}
+.n{
+	border: 2px solid white;
+	border-radius: 20px;
+	border-width: 2px;
+	color: white;
+	height: 100px;
+	width: 200px;
+	margin-top: 40px;
+	margin-left: 100px;
+	padding: 10px;
+}
+.fd{
+	font-family: roboto;
+	font-weight: bold;
+	text-align: center;
+	font-size: 20px;
+}
+.fdd{
+	color: green;
+}
+.ii{
+	padding: 5px 25px;
+	background-color: green;
+	border-radius: 10px;
+	border-width: 0px;
+	margin: 40px 30px;
+	color: white;
+}
+.bacc{
+	background-color: black;
+	height: 100vh;
+	width: 100vw;
+	background-size: cover;
+}
+.heed{
+	font-family: sans-serif;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 30px;
+	color: white;
+}
+.hdd{
+	color: #7F00FF;
+}
+.bor{
+	font-family: cursive;
+	color: white;
+	font-weight: bold;
+	font-size: 30px;
+	text-align: center;
+	padding-top: 30px;
+}
+.borr{
+	border: 3px solid #7F00FF;
+	height: 500px;
+	width: 350px;
+	margin-top: 30px;
+	margin-left: 160px;
+}
+.b2{
+	margin-left: 1000px;
+	margin-top: 30px;
+	padding: 7px 15px;
+	border-radius: 15px;
+	margin-right: 30px;
+	background-color: #7F00FF;
+	color: white;
+	border-width: 0px;
+	font-family: roboto;
+	font-weight: bold;
+}
+.btss{
+	margin-top: 30px;
+	padding: 7px 15px;
+	border-radius: 15px;
+	margin-right: 30px;
+	background-color: #7F00FF;
+	color: white;
+	border-width: 0px;
+	font-family: roboto;
+	font-weight: bold;
+}
+.ik{
+	text-align: center;
+	margin-top: 20px;
+}
+.ikk{
+	border-radius: 10px;
+}
+.vrr{
+	padding: 30px;
+	color: white;
+	font-family: cursive;
+}
+.gr{
+	margin-left: 70px;
+}
+.bagg{
+	background-color: black;
+	height: 100vh;
+	width: 100vw;
+	background-size: cover;
+}
+.b3{
+	margin-left: 1000px;
+	margin-top: 30px;
+	padding: 7px 15px;
+	border-radius: 15px;
+	margin-right: 30px;
+	background-color: orange;
+	color: white;
+	border-width: 0px;
+	font-family: roboto;
+	font-weight: bold;
+}
+.btsss{
+	margin-top: 30px;
+	padding: 7px 15px;
+	border-radius: 15px;
+	margin-right: 30px;
+	background-color: orange;
+	color: white;
+	border-width: 0px;
+	font-family: roboto;
+	font-weight: bold;
+}
+.hp{
+	color: white;
+	font-family: inherit;
+	font-size: 40px;
+	font-weight: normal;
+	text-align: center;
+}
+.hpp{
+	color: orange;
+	font-weight: bold;
+}
+.ldg{
+	font-size: 20px;
+	color: white;
+	font-family: roboto;
+	margin-left: 70px;
+	margin-top: 30px;
+	width: 500px;
+}
+.hfd{
+	font-family: caveat;
+	font-size: 35px;
+	font-weight: bold;
+	color: white;
+	margin-left: 150px;
+	margin-top: 30px;
+}
+.cls{
+	color: orange;
+}
+.hgf{
+	font-family: sans-serif;
+	margin-left: 200px;
+	color: white;
+	margin-top: 30px;
+}
+.nj{
+	border: 2px solid orange;
+	height: 30px;
+	width: 180px;
+	border-radius: 10px;
+	text-align: start;
+	margin-left: 150px;
+	margin-top: 30px;
+	background-color: #000000;
+	color: #ffffffe2;
+}
+.njj{
+	margin-left: 10px;
+}
+.njjj{
+	margin-left: 150px;
+	border-radius: 20px;
+	height: 200px;
+	width: 370px;
+	text-align: center;
+}
+.nrg{
+	margin-top: 50px;
+	margin-left: 150px;
+	padding: 10px;
+	padding-right: 20px;
+	padding-left: 20px;
+	border-radius: 10px;
+	background-color: orange;
+	color: white;
+	border-width: 0px;
+}
+.pii{
+	font-family: roboto;
+	font-size: 30px;
+	margin-left:100px;
+	margin-top: 50px;
+	color: white;
+}
+.qwe{
+	color: white;
+}
